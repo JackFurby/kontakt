@@ -4,7 +4,7 @@ In this repo I will be make a helper script for the word game Kontakt.
 
 ## How to play the game
 
-For reference here are the rules for the game itself. This game also goes by the name Contact which mostly has the same rules. The following is a modified version found here: [https://www.quora.com/How-do-you-play-the-word-game-Contact](https://www.quora.com/How-do-you-play-the-word-game-Contact).
+For reference here are the rules for the game itself. This game also goes by the name Contact which mostly has the same rules. The game below is a modified version of some rules for contact which can be found here: [https://www.quora.com/How-do-you-play-the-word-game-Contact](https://www.quora.com/How-do-you-play-the-word-game-Contact).
 
 Kontakt requires at least 3 people to play and there is no upper limit.
 
