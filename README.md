@@ -18,7 +18,7 @@ Guessers have to describe words that start with the same letters provided by the
 
 # An example
 
-`To give credit, this is the same example used in the exapmle of contact linked above.`
+`To give credit, this is the same example used in the Contact linked above.`
 1. The word-master comes up with the word "apple". They say the word starts with the letter "a". The guessers try to think of words that also start with the letter "a".
 2. One of the guessers thinks of the word "apathy" and gives the group a clue, say "This is a symptom of depression".
 3. If the word-master can come up with a word that fits the clue, say "apathy" or "anhedonia," they say "It's not apathy" or "It's not anhedonia," and the guessers have to think of another clue.
