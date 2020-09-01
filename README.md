@@ -34,3 +34,13 @@ A few house rules:
 ## Kontakt helper script
 
 For the noun list I am using a copy for [http://www.desiquintans.com/nounlist](http://www.desiquintans.com/nounlist) which is a list of aproximatly 6000 popular nouns.
+
+### Options
+
+```
+=== Kontakt word game help ===
+
+\q					-	Exit Kontakt helpers
+isNoun			-	Returns Yes if a given word is a noun
+whatsNext		-	Returns the top 5 word prefixes when given a shorter prefix
+```

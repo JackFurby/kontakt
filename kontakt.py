@@ -36,11 +36,11 @@ while True:
 
 	elif action == "help":
 		print("")
-		print("=== Trie help ===")
+		print("=== Kontakt word game help ===")
 		print("")
 		print("\q			-	Exit Kontakt helpers")
-		print("isNoun		-	Returns Yes if a given word is a noun")
-		print("whatsNext		-	Gives the top 5 word prefixes when given a shorter prefix")
+		print("isNoun			-	Returns Yes if a given word is a noun")
+		print("whatsNext		-	Returns the top 5 word prefixes when given a shorter prefix")
 		print("")
 	else:
 		print("Input not recognised")
