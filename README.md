@@ -16,7 +16,7 @@ The guessers will then try to guess the word the word-master came up with. They 
 
 Guessers have to describe words that start with the same letters provided by the word master (in the same order provided).
 
-# An example
+### An example
 
 `To give credit, this is the same example used in the Contact linked above.`
 1. The word-master comes up with the word "apple". They say the word starts with the letter "a". The guessers try to think of words that also start with the letter "a".
@@ -30,3 +30,7 @@ A few house rules:
 
 * The word-masters word must be a dictionary word, and it shouldn't be a word the group is unlikely to know.
 * The guessers can use any words they want, including phrases and proper nouns to describe the word they think the word-master has thought of. Like with the word-masters word though, it should be a word everyone will know and described in such a way everyone has a chance of knowing it (obscure is good, but don't describe a word with a reference only two or more of the guessers would ever know). It's best if they're clues that the word-master is expected to know, but doesn't for some reason.
+
+## Kontakt helper script
+
+For the noun list I am using a copy for [http://www.desiquintans.com/nounlist](http://www.desiquintans.com/nounlist) which is a list of aproximatly 6000 popular nouns.
