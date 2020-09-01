@@ -40,7 +40,7 @@ For the noun list I am using a copy for [http://www.desiquintans.com/nounlist](h
 ```
 === Kontakt word game help ===
 
-\q					-	Exit Kontakt helpers
+\q			-	Exit Kontakt helpers
 isNoun			-	Returns Yes if a given word is a noun
 whatsNext		-	Returns the top 5 word prefixes when given a shorter prefix
 ```
